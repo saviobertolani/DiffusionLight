@@ -5,4 +5,8 @@ DiffusionLight node implmented to ComfyUI
 - [X] Ball2Envmap
 - [X] Exposure2HDR
 - [X] save HDR image
-- [ ] view HDR image using somekind of slider or generate list of differnet EVs
+- [X] view HDR image using some kind of slider or generate list of differnet EVs
+- [ ] ToSquareImage
+- [ ] GetChromeballMask
+- [ ] finish the entire workflow
+- [ ] update readme on how to use it

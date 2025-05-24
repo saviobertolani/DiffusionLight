@@ -40,7 +40,7 @@ class Exposure2HDR:
         convert multiple image to a single HDR image
         Args:
             exposures (IMAGE): The input environment map image. #Tensor of image format shape (range 0-1) shape [N, H, W, 3]
-            lowest_ev (int): The lowest EV value to use for the HDR conversion.
+            gamma (float): The gamma value to apply during the conversion.
             ev_values (str): A comma-separated string of EV values to use for the HDR conversion. 
         """
         # Assuming envmap is already in the correct format
