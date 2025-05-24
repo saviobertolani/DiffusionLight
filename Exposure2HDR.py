@@ -3,7 +3,7 @@ import torch
 
 class Exposure2HDR:
     """
-    DiffusionLight Ball2Envmap class
+    DiffusionLight Exposure2HDR class
 
     """
     def __init__(self):
