@@ -132,18 +132,3 @@ def get_cartesian_from_spherical(theta: np.array, phi: np.array, r = 1.0):
     y = r * np.sin(theta) * np.sin(phi)
     z = r * np.cos(theta)
     return np.concatenate([x[...,None],y[...,None],z[...,None]], axis=-1)
-
-
-
-
-
-# A dictionary that contains all nodes you want to export with their names
-# NOTE: names should be globally unique
-NODE_CLASS_MAPPINGS = {
-    "Ball2Envmap": Ball2Envmap
-}
-
-# A dictionary that contains the friendly/humanly readable titles for the nodes
-NODE_DISPLAY_NAME_MAPPINGS = {
-    "Ball2Envmap": "Ball to Envmap"
-}
