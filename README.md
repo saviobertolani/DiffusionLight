@@ -14,7 +14,7 @@ If you are looking for more in-depth details, please visit the [DiffusionLight's
 ## How to use 
 1. Select Input Image
 2. Click Run
-3. The output HDR Environment map will appear at `ComfyUI/output`
+3. The output HDR Environment map `DiffusionLight-0001.hdr` will appear at `ComfyUI/output`
 
 ## Installation 
 
