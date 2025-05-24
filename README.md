@@ -7,6 +7,6 @@ DiffusionLight node implmented to ComfyUI
 - [X] save HDR image
 - [X] view HDR image using some kind of slider or generate list of differnet EVs
 - [X] PadBlackBorder
-- [ ] GetChromeballMask
-- [ ] finish the entire workflow
+- [X] GetChromeballMask
+- [X] finish the entire workflow
 - [ ] update readme on how to use it

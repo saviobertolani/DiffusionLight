@@ -28,7 +28,7 @@ class SaveHDR:
 
     def save_hdr(self, hdr_image, filename_prefix, file_extension):
         full_output_folder, filename, counter, subfolder, filename_prefix = folder_paths.get_save_image_path(filename_prefix, folder_paths.get_output_directory())
-        filename = f"{filename_prefix}_{counter:04d}.{file_extension}"
+        filename = f"{filename_prefix}_{counter+1:04d}.{file_extension}"
         full_path = f"{full_output_folder}/{filename}"
         print(f"Saving HDR image to {full_path}")
         out_image = hdr_image[0].cpu().numpy().astype(np.float32)
