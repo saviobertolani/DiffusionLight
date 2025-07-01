@@ -24,8 +24,8 @@ If you are looking for more in-depth details, please visit the [DiffusionLight's
 4. Download the Stable Diffusion-releated `.safetensors`: 
 - 4.1. [SDXL Based model (With VAE fix)](https://civitai.com/models/101055) and put into `ComfyUI/models/checkpoints`
 - 4.2. [SDXL Depth ControlNet](https://huggingface.co/diffusers/controlnet-depth-sdxl-1.0/blob/main/diffusion_pytorch_model.safetensors) and put into `ComfyUI/models/controlnet`
-- 4.3. [DiffusionLight's Exposure LoRA](https://vistec-my.sharepoint.com/:u:/g/personal/pakkapon_p_s19_vistec_ac_th/ET-PEbnf5DtDv0c8D0Xvo6gBCVIXL319hmKvFt_nk4jXJg?e=c2gbaA) and put into `ComfyUI/models/loras`
-- 4.4.  [DiffusionLight's Turbo LoRA](https://vistec-my.sharepoint.com/:u:/g/personal/pakkapon_p_s19_vistec_ac_th/EeaTEJegQ7tBqQHhNRihyRIBIBBoJYZy-IenH0aZgLf6gQ?e=Rk4ebd) and put into `ComfyUI/models/loras`
+- 4.3. [DiffusionLight's Exposure LoRA](https://huggingface.co/DiffusionLight/DiffusionLight-Comfy/blob/main/DiffusionLight-Comfy-ExposureLoRA.safetensors) and put into `ComfyUI/models/loras`
+- 4.4.  [DiffusionLight's Turbo LoRA](https://huggingface.co/DiffusionLight/DiffusionLight-Comfy/blob/main/DiffusionLight-Comfy-TurboLoRA.safetensors) and put into `ComfyUI/models/loras`
 5. Clone this repository and place it in `ComfyUI/custom_nodes`
 6. Run ComfyUI and import the workflow file [diffusionlight-workflow.json](diffusionlight-workflow.json) from this repository
 
