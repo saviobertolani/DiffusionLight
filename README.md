@@ -32,11 +32,11 @@ If you are looking for more in-depth details, please visit the [DiffusionLight's
 ## Citation
 
 ```
-@inproceedings{Phongthawee2023DiffusionLight,
-    author = {Phongthawee, Pakkapon and Chinchuthakun, Worameth and Sinsunthithet, Nontaphat and Raj, Amit and Jampani, Varun and Khungurn, Pramook and Suwajanakorn, Supasorn},
-    title = {DiffusionLight: Light Probes for Free by Painting a Chrome Ball},
-    booktitle = {ArXiv},
-    year = {2023},
+@inproceedings{Chinchuthakun2025DiffusionLightTurbo,
+  author = {Chinchuthakun, Worameth and Phongthawee, Pakkapon and Raj, Amit and Jampani, Varun and Khungurn, Pramook and Suwajanakorn, Supasorn},
+  title = {DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting},
+  booktitle = {ArXiv},
+  year = {2025},
 }
 ```
 
