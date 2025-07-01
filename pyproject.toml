@@ -9,6 +9,6 @@ Repository = "https://github.com/DiffusionLight/DiffusionLight-ComfyUI"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "pureexe"
+PublisherId = "diffusionlight"
 DisplayName = "DiffusionLight-ComfyUI"
 Icon = "https://diffusionlight.github.io/assets/images/icon_32x32.png"
