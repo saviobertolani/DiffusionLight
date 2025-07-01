@@ -1,0 +1,14 @@
+[project]
+name = "diffusionlight-comfyui"
+description = "DiffusionLight (Turbo) implemented in ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/pureexe/DiffusionLight-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "DiffusionLight-ComfyUI"
+Icon = ""
