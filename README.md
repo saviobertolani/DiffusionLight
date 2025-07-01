@@ -7,7 +7,7 @@ This repository is recommended for non-researchers who want to extract lighting 
 
 Unlike the main DiffusionLight repository, which requires 16GB of VRAM to run, this ComfyUI implementation enables machines with lower VRAM to operate the model efficiently.
 
-If you are looking for more in-depth details, please visit the [DiffusionLight's Main repository](https://github.com/DiffusionLight/DiffusionLight)
+If you are looking for more in-depth details, please visit the [DiffusionLight's Main repository](https://github.com/DiffusionLight/DiffusionLight) and [DiffusionLight-Turbo repository](https://github.com/DiffusionLight/DiffusionLight-Turbo) 
 
 ![](assets/pipeline_preview.jpg)
 
