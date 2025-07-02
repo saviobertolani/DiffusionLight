@@ -1,5 +1,5 @@
 # DiffusionLight-ComfyUI
-
+### [Project Page](https://diffusionlight.github.io/turbo/) | [Main Repo](https://github.com/DiffusionLight/DiffusionLight-Turbo)
 
 DiffusionLight (Turbo) implemented in ComfyUI
 
